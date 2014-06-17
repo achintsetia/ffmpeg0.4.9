@@ -23,7 +23,7 @@
 #include <sys/mman.h>
 #include <sys/time.h>
 #define _LINUX_TIME_H 1
-#include <linux/videodev.h>
+#include <libv4l1-videodev.h>
 #include <time.h>
 
 typedef struct {
