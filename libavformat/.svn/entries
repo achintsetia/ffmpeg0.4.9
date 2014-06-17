@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5969"
+   name=""
+   committed-date="2006-08-09T12:11:32.651581Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/libavformat"
+   last-author="bcoudurier"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   prop-time="2006-08-11T11:43:36.000000Z"
+   revision="5980"/>
+<entry
+   committed-rev="5729"
+   name="img2.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-13T21:13:49.650363Z"
+   checksum="0172234bc2facb63143d147bcd7a9add"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:22.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="dv1394.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="90cfebf94cf2b84e37533b6c83aa27ff"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:22.000000Z"/>
+<entry
+   committed-rev="5961"
+   name="utils.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-08T20:31:19.354866Z"
+   checksum="67330a0e059d2d945c796703a01eac85"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:23.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="cutils.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="af4ce5bc263361cff13a0f1399c83688"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:23.000000Z"/>
+<entry
+   committed-rev="5803"
+   name="nut.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-20T10:22:07.485169Z"
+   checksum="cff621b8585a9be9ff35d430e58ae546"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:23.000000Z"/>
+<entry
+   committed-rev="5786"
+   name="crc.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-19T08:39:50.024155Z"
+   checksum="00d105d38594371719bb5718e66a1ab0"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:23.000000Z"/>
+<entry
+   committed-rev="5882"
+   name="isom.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-01T14:58:15.728584Z"
+   checksum="3976a5dce95996d95228821535046e77"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:23.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="nuv.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="89df394984d2b1ed43e0d3d681a3cd33"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:24.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="ffm.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="44a754fd435d9cbaa7ab54550ab8db36"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:24.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="ipmovie.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="b8e4f2a54ccabec304f0b8b0c72408a0"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:23.000000Z"/>
+<entry
+   committed-rev="5882"
+   name="isom.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-01T14:58:15.728584Z"
+   checksum="9ee84842a065e53dbf0538c70b620438"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:24.000000Z"/>
+<entry
+   committed-rev="5718"
+   name="os_support.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-11T21:45:45.492629Z"
+   checksum="ab167fc80b3da26df642b6fcbe79ae9a"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:24.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="idroq.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="6180fdaf2148c7b4169bcdb19d8a3807"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:24.000000Z"/>
+<entry
+   committed-rev="5785"
+   name="http.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-19T08:06:24.267971Z"
+   checksum="074db68816ca80ed3715c0ce5ff1a815"
+   last-author="gpoirier"
+   kind="file"
+   prop-time="2006-08-11T11:43:24.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="matroska.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="54f25dafef8693be9231585e41ad56d7"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:24.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="adtsenc.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="c38b5fd5d9e26f3d7e75cf90e76771b6"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:24.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="electronicarts.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="537932c8e5016ea84ab906eac7335869"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:24.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="mpjpeg.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="81f4b75794ed2d23590e9b79b98d9467"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:24.000000Z"/>
+<entry
+   committed-rev="3053"
+   name="os_support.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2004-04-24T11:51:38.000000Z"
+   checksum="20f1a75e4764ce12ee119879fe80170f"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:24.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="yuv.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="69698cf1ca3d5dd46149cdd5f2531503"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:24.000000Z"/>
+<entry
+   committed-rev="5958"
+   name="gxf.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-08T18:02:09.378042Z"
+   checksum="af738af795226798a0fd3ca263641206"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:25.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="avi.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="4154e2f4804b1e25b0371837d91918c7"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:25.000000Z"/>
+<entry
+   committed-rev="5492"
+   name="png.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-06-17T15:53:23.573752Z"
+   checksum="bd90437218f3e43a27e7df604fc8dfd2"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:25.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="smacker.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="a917c89b257b5096915059a81e1b5fb5"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:25.000000Z"/>
+<entry
+   committed-rev="5497"
+   name="udp.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-06-18T11:33:14.776485Z"
+   checksum="db48e931e7fa2c55625baa9dcc92eae8"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:25.000000Z"/>
+<entry
+   committed-rev="5787"
+   name="gxf.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-19T09:38:22.072231Z"
+   checksum="115d9aa879b961dc94aae2c58d1ec04b"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:25.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="avs.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="978b2b8a9ddc1e779737478ecbe32872"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:25.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="rtpproto.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="d80c3825c47988ddd95a21b600c57a4f"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:25.000000Z"/>
+<entry
+   committed-rev="5917"
+   name="mxf.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-03T15:33:48.750707Z"
+   checksum="90c1a9d024bf200270aa619427fe0c2d"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:25.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="pnm.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="75fed97eea2b2c5af0718c990e20e2eb"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:25.000000Z"/>
+<entry
+   committed-rev="5367"
+   name="oggparsevorbis.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-05-12T00:50:43.000000Z"
+   checksum="c02f36c53b0cf4fa0c4a8cfdc5579e2b"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:26.000000Z"/>
+<entry
+   committed-rev="5882"
+   name="Makefile"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-01T14:58:15.728584Z"
+   checksum="621b3f517312c1b3c3582a9871b9baa1"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:26.000000Z"/>
+<entry
+   committed-rev="5367"
+   name="oggparseflac.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-05-12T00:50:43.000000Z"
+   checksum="cc5d936f61edd8e3134af1b6a74414b8"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:26.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="mp3.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="7ccb5f01060468493fcbe0f5303e9d05"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:26.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="mpegts.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="1a5c41d87aa7a71ec11b3ddfe87a6201"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:26.000000Z"/>
+<entry
+   committed-rev="5697"
+   name="mpegts.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-09T23:40:53.511559Z"
+   checksum="1fabe32381e4bce366481b63d9083ce7"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:26.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="rtp.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="f32de1d4444f045f93b567a60f829b50"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:26.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="dc1394.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="db2ccd19b1169b943651b0788196d26c"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:26.000000Z"/>
+<entry
+   committed-rev="4749"
+   name="qtpalette.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2005-12-17T18:14:38.000000Z"
+   checksum="df0dd3f62d32b2638182c6a192d822da"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:27.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="4xm.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="0362aad59936520e2da217ce50cf4232"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:26.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="dv.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="dd287b19af0052591096771d083c8c27"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:27.000000Z"/>
+<entry
+   committed-rev="5857"
+   name="asf.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-29T16:07:19.692063Z"
+   checksum="0c4c419906c03ca2e5208cc040ec8c85"
+   last-author="gpoirier"
+   kind="file"
+   prop-time="2006-08-11T11:43:27.000000Z"/>
+<entry
+   committed-rev="5697"
+   name="rtp.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-09T23:40:53.511559Z"
+   checksum="2c2ca22b12502a40f38d5336e86a2b52"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:27.000000Z"/>
+<entry
+   committed-rev="5697"
+   name="beosaudio.cpp"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-09T23:40:53.511559Z"
+   checksum="73b7c53c796d249d3e9e188330a58795"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:27.000000Z"/>
+<entry
+   committed-rev="5967"
+   name="gxfenc.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-09T10:48:32.179499Z"
+   checksum="4ae1e528e736765adedd0006accca53f"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:27.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="grab.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="8ef3a97f475f6600a18973019565741b"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:28.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="asf-enc.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="3ceaf36bae49b122a7fb07961399286e"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:28.000000Z"/>
+<entry
+   committed-rev="5729"
+   name="img.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-13T21:13:49.650363Z"
+   checksum="753d30ac4a58af6d91b81831c7c55654"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:28.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="rm.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="7d982550f08e7a999300238253c90b76"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:28.000000Z"/>
+<entry
+   committed-rev="4960"
+   name="dv.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-02-08T11:43:47.000000Z"
+   checksum="c4dccf895911d5df39c7689490ce9f4b"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:28.000000Z"/>
+<entry
+   committed-rev="5857"
+   name="asf.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-29T16:07:19.692063Z"
+   checksum="f8c879875e738254adc4569721d61f56"
+   last-author="gpoirier"
+   kind="file"
+   prop-time="2006-08-11T11:43:28.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="yuv4mpeg.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="e37b1e4177065bc9b189b01c7217c850"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:28.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="nsvdec.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="4192405b6de89d7b9dc5e2ae8b8666c6"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:28.000000Z"/>
+<entry
+   committed-rev="4922"
+   name="tcp.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-02-02T13:07:30.000000Z"
+   checksum="bb5febe48f6a6f9e5873729da9bec9d7"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:29.000000Z"/>
+<entry
+   committed-rev="5953"
+   name="movenc.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-07T15:48:26.574597Z"
+   checksum="b39dba2f0af3a0ebe60a591ae671472d"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:29.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="mpeg.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="51ac7f1a975dfd676df55e5ea8d838e6"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:29.000000Z"/>
+<entry
+   committed-rev="5961"
+   name="raw.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-08T20:31:19.354866Z"
+   checksum="48cc71690a7345996522b45a3cb4e8e1"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:29.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="wc3movie.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="635fa884af88698aeb083e8edb93d905"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:29.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="sierravmd.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="a06827e7d0c4a961148cabfacbc77bf7"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:29.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="sol.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="6fad52ce6973af5832601b2c8bc95f5f"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:30.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="grab_bktr.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="e424230627f01853059c30fadd93f4a1"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:30.000000Z"/>
+<entry
+   committed-rev="5814"
+   name="ogg2.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-23T18:19:33.654677Z"
+   checksum="c18ddd3df57c30eacda85dc2c47f4760"
+   last-author="reimar"
+   kind="file"
+   prop-time="2006-08-11T11:43:30.000000Z"/>
+<entry
+   committed-rev="4879"
+   name="avio.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-01-21T18:36:32.000000Z"
+   checksum="dffa9a41cd299adc05ccce46706ad331"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:30.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="swf.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="7304796cfff7ec460659bfcda4735d8a"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:30.000000Z"/>
+<entry
+   committed-rev="5969"
+   name="mov.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-09T12:11:32.651581Z"
+   checksum="5ed3029f014cd2c55a23e4847046fd79"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:30.000000Z"/>
+<entry
+   committed-rev="5731"
+   name="avio.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-13T21:29:01.306388Z"
+   checksum="d58bfd6c56406a67b66dc13726097852"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:30.000000Z"/>
+<entry
+   committed-rev="5365"
+   name="ogg2.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-05-11T23:07:22.000000Z"
+   checksum="01a209e79cfbc45f963b4b22ee7ce388"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:30.000000Z"/>
+<entry
+   committed-rev="5956"
+   name="psxstr.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-08T10:24:26.820472Z"
+   checksum="aa60d423edb1e420d631899259f934da"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:31.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="avienc.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="46f2686493fe54fced16267d8e7e424e"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:31.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="au.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="d2e676efbec82ff7b608a526d6366fd8"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:31.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="aiff.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="3968bf472d11f6cdd39f8cecb2559c64"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:31.000000Z"/>
+<entry
+   committed-rev="5829"
+   name="mm.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-26T01:12:26.517412Z"
+   checksum="75d3d5de78c4a4903f6abcc9c6894b82"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:31.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="oggparseogm.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="78773b455d71ee603d6a5d4be1041acd"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:31.000000Z"/>
+<entry
+   committed-rev="5776"
+   name="oggparsetheora.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-17T10:44:53.479461Z"
+   checksum="e9e9aedc0c86db204a83f5a30d49b0f6"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:31.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="framehook.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="18a891b09da9dfaff3a12cd84e3ee67f"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:31.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="westwood.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="b6302840a63ac7bd3d1cae0e4c2874d4"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:31.000000Z"/>
+<entry
+   committed-rev="5939"
+   name="flvenc.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-06T15:29:50.689086Z"
+   checksum="cef1f17aa2e604f9f422b80fd6e76134"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:31.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="flic.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="7d64a347a2c6288c8b4b06492c7b0752"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:31.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="daud.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="92d28cc28b264f29d86074880a6ed0e3"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:32.000000Z"/>
+<entry
+   committed-rev="4749"
+   name="framehook.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2005-12-17T18:14:38.000000Z"
+   checksum="ad608595bff8363f30ba54504206b5ab"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:32.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="jpeg.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="fbbeb8dc5c7b9d3173a921459a2ab162"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:32.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="mpegtsenc.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="ee8f91beea542d6d5a59fe5ec0dc066a"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:32.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="segafilm.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="7437f8b0ca311797b709be9237901d57"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:32.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="v4l2.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="ca11dd53b859a1bc7037f22f63602274"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:32.000000Z"/>
+<entry
+   committed-rev="5829"
+   name="tta.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-26T01:12:26.517412Z"
+   checksum="d6ac132a44fbe48176c8ae6eaa959c81"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:32.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="avidec.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="64a53519025ca5a6530eb07081d05f17"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:32.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="audio.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="7731947d4a2b88757384cf270815772c"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:32.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="flvdec.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="eb921e19bbb3fa0277bf37b28fe3aa53"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:32.000000Z"/>
+<entry
+   committed-rev="5826"
+   name="allformats.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-25T14:30:14.268737Z"
+   checksum="9e50832db6eb9122ee51215f2f75930e"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:32.000000Z"/>
+<entry
+   committed-rev="5887"
+   name="gif.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-02T09:48:05.056190Z"
+   checksum="612a3e0ebe07f37c3379dff926875ed2"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:43:33.000000Z"/>
+<entry
+   committed-rev="4764"
+   name="barpainet.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2005-12-22T01:10:11.000000Z"
+   checksum="68f8991048178183030657d4a19853c4"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:33.000000Z"/>
+<entry
+   committed-rev="5826"
+   name="allformats.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-25T14:30:14.268737Z"
+   checksum="db5d65a256fc1df88b83ad661360753e"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:33.000000Z"/>
+<entry
+   committed-rev="4720"
+   name="barpainet.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2005-12-05T20:44:56.000000Z"
+   checksum="ce98fbfdc28b76b12457ebee7d705803"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:33.000000Z"/>
+<entry
+   committed-rev="719"
+   name="rtspcodes.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2002-07-04T10:41:34.000000Z"
+   checksum="e17070d8c2c7341320f9d46431c8fc84"
+   last-author="bellard"
+   kind="file"
+   prop-time="2006-08-11T11:43:33.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="ogg.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="7b42b63cf557becdd0f20f6326e60263"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:33.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="mmf.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="d39a0905cd6d63fe7815177aa1dfc26f"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:33.000000Z"/>
+<entry
+   committed-rev="5718"
+   name="file.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-11T21:45:45.492629Z"
+   checksum="71b142cb314621a9ee56179e10ef666b"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:33.000000Z"/>
+<entry
+   committed-rev="5956"
+   name="amr.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-08T10:24:26.820472Z"
+   checksum="8735fa28ad25dd3d954c037f9211e1fb"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:33.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="gifdec.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="cd4c3d728991ce068d276cecd9355ab8"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:34.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="sgi.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="6a4d807773037a7f89f785dc91a836fe"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:34.000000Z"/>
+<entry
+   committed-rev="5961"
+   name="avformat.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-08T20:31:19.354866Z"
+   checksum="a14489ec73c23b15b4d4666f2b520511"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:34.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="idcin.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="24f12ba412f13f532a9019633d145f0b"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:34.000000Z"/>
+<entry
+   committed-rev="5963"
+   name="riff.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-08-08T22:16:34.345870Z"
+   checksum="1f4837545e91fe151144103229b149e3"
+   last-author="rtogni"
+   kind="file"
+   prop-time="2006-08-11T11:43:34.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="voc.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="a607ec379077d778ba853762d007c0ba"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:35.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="rtsp.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="b1d223bf993e4a91f9dc10e151bbd4d9"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:35.000000Z"/>
+<entry
+   committed-rev="5707"
+   name="dv1394.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-10T21:14:37.457490Z"
+   checksum="f4d846def25439927ec22c7c8b28b9a6"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:35.000000Z"/>
+<entry
+   committed-rev="5803"
+   name="aviobuf.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-20T10:22:07.485169Z"
+   checksum="ba577edff689feffb66be014b33fe2ce"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:35.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="riff.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="37002f381e70d226c30f903e293abddf"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:35.000000Z"/>
+<entry
+   committed-rev="4967"
+   name="voc.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-02-09T22:52:23.000000Z"
+   checksum="2fb60eb0b0a6af5401e91ffb4eb5d39b"
+   last-author="aurel"
+   kind="file"
+   prop-time="2006-08-11T11:43:35.000000Z"/>
+<entry
+   committed-rev="5697"
+   name="rtsp.h"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-09T23:40:53.511559Z"
+   checksum="ace3e1f3b2101a84490eca01734697c6"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:36.000000Z"/>
+<entry
+   committed-rev="5720"
+   name="wav.c"
+   text-time="2006-08-11T11:43:36.000000Z"
+   committed-date="2006-07-12T00:09:34.738711Z"
+   checksum="b6637888d4ae4c6e5696f2c04b27415d"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:43:36.000000Z"/>
+</wc-entries>

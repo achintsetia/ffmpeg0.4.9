@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4842"
+   name=""
+   committed-date="2006-01-12T22:43:26.000000Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/libavcodec/sparc"
+   last-author="diego"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   revision="5980"/>
+<entry
+   committed-rev="4842"
+   name="dsputil_vis.c"
+   text-time="2006-08-11T11:42:30.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="98f8dc28011be4614558f9c3db8656e5"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:30.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="vis.h"
+   text-time="2006-08-11T11:42:30.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="1603c156a1160c8064fd9d68ed87a04e"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:30.000000Z"/>
+</wc-entries>

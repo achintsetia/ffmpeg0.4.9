@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5979"
+   name=""
+   committed-date="2006-08-11T02:56:32.579944Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/libavcodec/ppc"
+   last-author="lu_zero"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   revision="5980"/>
+<entry
+   committed-rev="5915"
+   name="dsputil_h264_altivec.c"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-08-03T13:21:13.393844Z"
+   checksum="6fa33d1378bfb6cb72a70bf140cf1a70"
+   last-author="lu_zero"
+   kind="file"
+   prop-time="2006-08-11T11:42:39.000000Z"/>
+<entry
+   committed-rev="5297"
+   name="gcc_fixes.h"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-04-16T03:40:04.000000Z"
+   checksum="41ae5eb519820d601a7cc24e627f57d8"
+   last-author="lu_zero"
+   kind="file"
+   prop-time="2006-08-11T11:42:39.000000Z"/>
+<entry
+   committed-rev="5918"
+   name="dsputil_altivec.h"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-08-03T16:13:50.940323Z"
+   checksum="c889ccdbccf746c007d86ea1367d31ad"
+   last-author="lu_zero"
+   kind="file"
+   prop-time="2006-08-11T11:42:40.000000Z"/>
+<entry
+   committed-rev="5919"
+   name="dsputil_snow_altivec.c"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-08-03T16:19:13.395081Z"
+   checksum="2596fa1ca8420b5033f56269c6621ef7"
+   last-author="lu_zero"
+   kind="file"
+   prop-time="2006-08-11T11:42:40.000000Z"/>
+<entry
+   committed-rev="5899"
+   name="vc1dsp_altivec.c"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-08-03T05:02:31.756334Z"
+   checksum="e83ff540ce98c6f4896f1de9dee7efef"
+   last-author="kostya"
+   kind="file"
+   prop-time="2006-08-11T11:42:40.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="gmc_altivec.c"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="5f9cd1e8c726a4ae6e4ea04c434a26c0"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:41.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="mpegvideo_ppc.c"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="cd96bb17a876117634f3598336496b5f"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:40.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="mpegvideo_altivec.c"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="efca3269c34ec81f8d94dd10cbc73446"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:40.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="fft_altivec.c"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="4a6830f14db3d5c5223c3addb901417b"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:40.000000Z"/>
+<entry
+   committed-rev="5919"
+   name="dsputil_ppc.c"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-08-03T16:19:13.395081Z"
+   checksum="1902ea3af678dc8cb808c90583bd2b24"
+   last-author="lu_zero"
+   kind="file"
+   prop-time="2006-08-11T11:42:40.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="fdct_altivec.c"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="2b6470db688a905fbb3825f44d98e7f2"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:40.000000Z"/>
+<entry
+   committed-rev="5504"
+   name="dsputil_h264_template_altivec.c"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-06-20T10:35:30.004345Z"
+   checksum="94ebca7ca5bc425f199bdea51f7d355c"
+   last-author="lu_zero"
+   kind="file"
+   prop-time="2006-08-11T11:42:40.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="idct_altivec.c"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="23e33c8eceb87c6a9872ca15e35cf46f"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:40.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="dsputil_ppc.h"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="8838d5362798878881f28fee8278e035"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:41.000000Z"/>
+<entry
+   committed-rev="5979"
+   name="dsputil_altivec.c"
+   text-time="2006-08-11T11:42:41.000000Z"
+   committed-date="2006-08-11T02:56:32.579944Z"
+   checksum="fcf5bb0d27785e3aca3abca71c6b1a43"
+   last-author="lu_zero"
+   kind="file"
+   prop-time="2006-08-11T11:42:41.000000Z"/>
+</wc-entries>

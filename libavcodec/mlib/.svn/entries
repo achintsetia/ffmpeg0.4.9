@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4842"
+   name=""
+   committed-date="2006-01-12T22:43:26.000000Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/libavcodec/mlib"
+   last-author="diego"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   revision="5980"/>
+<entry
+   committed-rev="4842"
+   name="dsputil_mlib.c"
+   text-time="2006-08-11T11:42:58.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="92c7243dfb049a0565ddbac2b0348556"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:58.000000Z"/>
+</wc-entries>

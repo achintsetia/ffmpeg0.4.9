@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5956"
+   name=""
+   committed-date="2006-08-08T10:24:26.820472Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/libavcodec/sh4"
+   last-author="diego"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   revision="5980"/>
+<entry
+   committed-rev="4842"
+   name="dsputil_align.c"
+   text-time="2006-08-11T11:43:06.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="c7fcc844b5d8a9bc67fd7e919a924126"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:06.000000Z"/>
+<entry
+   committed-rev="5956"
+   name="idct_sh4.c"
+   text-time="2006-08-11T11:43:06.000000Z"
+   committed-date="2006-08-08T10:24:26.820472Z"
+   checksum="3536af41d8ce330f358fa0130c55b7c5"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:06.000000Z"/>
+<entry
+   committed-rev="4764"
+   name="qpel.c"
+   text-time="2006-08-11T11:43:06.000000Z"
+   committed-date="2005-12-22T01:10:11.000000Z"
+   checksum="9d7e71c13c29c20200e24f0c0675d775"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:06.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="dsputil_sh4.c"
+   text-time="2006-08-11T11:43:06.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="bf14aad01a1fb3c35f31902450411c11"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:06.000000Z"/>
+</wc-entries>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5723"
+   name=""
+   committed-date="2006-07-12T15:19:51.050613Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/libpostproc"
+   last-author="diego"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   prop-time="2006-08-11T11:43:14.000000Z"
+   revision="5980"/>
+<entry
+   committed-rev="4842"
+   name="postprocess_template.c"
+   text-time="2006-08-11T11:43:14.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="0784dfa4cc8487fc342b148ad6b33cad"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:14.000000Z"/>
+<entry
+   committed-rev="5497"
+   name="postprocess.c"
+   text-time="2006-08-11T11:43:14.000000Z"
+   committed-date="2006-06-18T11:33:14.776485Z"
+   checksum="7b3f182105613ef8741ea0ab84e79a13"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:14.000000Z"/>
+<entry
+   committed-rev="5631"
+   name="postprocess_internal.h"
+   text-time="2006-08-11T11:43:14.000000Z"
+   committed-date="2006-07-05T20:32:19.717466Z"
+   checksum="c6f4ba1ccb6a705d6c56554d3e259be2"
+   last-author="lu_zero"
+   kind="file"
+   prop-time="2006-08-11T11:43:14.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="postprocess_altivec_template.c"
+   text-time="2006-08-11T11:43:14.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="54defc839cfc61aa0364f1651c5b0c32"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:14.000000Z"/>
+<entry
+   committed-rev="5120"
+   name="mangle.h"
+   text-time="2006-08-11T11:43:14.000000Z"
+   committed-date="2006-03-06T22:06:33.000000Z"
+   checksum="ca59b7e2167b8423deb0a499e751db12"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:14.000000Z"/>
+<entry
+   committed-rev="4859"
+   name="postprocess.h"
+   text-time="2006-08-11T11:43:14.000000Z"
+   committed-date="2006-01-14T18:17:19.000000Z"
+   checksum="da70dd937ad4d6f29ca55e634e55e79b"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:14.000000Z"/>
+<entry
+   committed-rev="5723"
+   name="Makefile"
+   text-time="2006-08-11T11:43:14.000000Z"
+   committed-date="2006-07-12T15:19:51.050613Z"
+   checksum="0441d9d40f7abc1290c66453d3e93bc8"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:14.000000Z"/>
+</wc-entries>

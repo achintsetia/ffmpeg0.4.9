@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 53
+.depend
+amr
+amr*_float
+apiexample
+*-test
+libavcodec*
+
+END

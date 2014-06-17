@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5955"
+   name=""
+   committed-date="2006-08-08T07:58:10.479718Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/libavutil"
+   last-author="michael"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   prop-time="2006-08-11T11:42:26.000000Z"
+   revision="5980"/>
+<entry
+   committed-rev="5424"
+   name="mathematics.c"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-05-29T19:44:17.218685Z"
+   checksum="721e4081d13e1803cb0e6c1a96995c37"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="5829"
+   name="lls.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-26T01:12:26.517412Z"
+   checksum="dc945258bf5ef3b4706df04077ff440c"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="5595"
+   name="x86_cpu.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-03T10:52:07.084259Z"
+   checksum="91b6aabdee4dd953fac92ef4af300335"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="5955"
+   name="softfloat.c"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-08-08T07:58:10.479718Z"
+   checksum="b4545a904cd0c1e1e792d80b69eceeea"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="5731"
+   name="adler32.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-13T21:29:01.306388Z"
+   checksum="9f462cd6251c54546b61d27ac6fa531a"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="integer.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="ac2a4b4ed10845d9fa4c9882645cda0e"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="4489"
+   name="mathematics.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2005-08-01T20:07:05.000000Z"
+   checksum="6e033828769395756faafbf571eb97f6"
+   last-author="al"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="5955"
+   name="softfloat.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-08-08T07:58:10.479718Z"
+   checksum="8ec080ce64d5c6e9942284ca54074256"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="5676"
+   name="crc.c"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-08T20:23:19.761269Z"
+   checksum="21a023183c1fece4833d27b955033cbf"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="5802"
+   name="rational.c"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-20T10:14:06.418456Z"
+   checksum="c7289fb31a0e1f6f7ab0e52b1643a7ff"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:42:25.000000Z"/>
+<entry
+   committed-rev="5781"
+   name="avutil.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-18T11:00:55.378300Z"
+   checksum="b4bafe48579ffac8bf084e7694c7b7f9"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="5115"
+   name="crc.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-03-06T14:13:01.000000Z"
+   checksum="f4e4cb20077603b8a0e91e0d5016d0f6"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:42:25.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="rational.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="7d6a6f36d6ee9aa0e5dd6b3e50f824dc"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:25.000000Z"/>
+<entry
+   committed-rev="5784"
+   name="mem.c"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-19T07:28:58.406609Z"
+   checksum="f4376df005f71772e1eff5abf25225bf"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:42:25.000000Z"/>
+<entry
+   committed-rev="5804"
+   name="log.c"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-20T11:55:08.283696Z"
+   checksum="8560aedcd27e45947fa29cff69964513"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:42:25.000000Z"/>
+<entry
+   committed-rev="5809"
+   name="internal.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-21T19:36:59.056445Z"
+   checksum="817a3f6f86e1e83ecb9f7f033cab7511"
+   last-author="reimar"
+   kind="file"
+   prop-time="2006-08-11T11:42:25.000000Z"/>
+<entry
+   committed-rev="5049"
+   name="bswap.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-02-22T10:28:44.000000Z"
+   checksum="c9e3deeef370f996de09329a4adf6c93"
+   last-author="iive"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="5634"
+   name="md5.c"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-05T22:57:47.025306Z"
+   checksum="41c63232b80668037f946bafe79f53f9"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="5597"
+   name="intfloat_readwrite.c"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-03T12:09:10.788658Z"
+   checksum="7fec104c44ab8cd7522a93bd2eca306f"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="5804"
+   name="log.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-20T11:55:08.283696Z"
+   checksum="764dacb0614dae3cdc7bc235060d693d"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="5829"
+   name="lls.c"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-26T01:12:26.517412Z"
+   checksum="4a7980a2eaf37e533fb6ee1f12e962ef"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="5585"
+   name="md5.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-02T19:26:22.725863Z"
+   checksum="4f171006d721848a4b3ef34513cddb7b"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="4924"
+   name="intfloat_readwrite.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-02-02T15:21:19.000000Z"
+   checksum="e5b0cd40271656fdcd03e72e56a21fbc"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="5800"
+   name="adler32.c"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-20T08:34:01.973809Z"
+   checksum="59d87c5db336c64c28fc9d89da8c8094"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="5790"
+   name="Makefile"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-19T12:10:01.004204Z"
+   checksum="d2506119b3d9448b6b205fb74b37eee4"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="integer.c"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="62b52f06d18c34dfdbedb29c636fe09a"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="5809"
+   name="common.h"
+   text-time="2006-08-11T11:42:26.000000Z"
+   committed-date="2006-07-21T19:36:59.056445Z"
+   checksum="8aa7e15f5c8f8005850e330ca62cab48"
+   last-author="reimar"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+</wc-entries>

@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 143
+config.h
+config.mak
+*ffmpeg
+ffserver
+Makefile.*
+.depend
+dsptest
+dsptestpic
+asynth1.sw
+audiogen
+data
+rotozoom
+tiny_psnr
+videogen
+vsynth1
+vsynth2
+END

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4842"
+   name=""
+   committed-date="2006-01-12T22:43:26.000000Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/libavcodec/ps2"
+   last-author="diego"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   revision="5980"/>
+<entry
+   committed-rev="4842"
+   name="mpegvideo_mmi.c"
+   text-time="2006-08-11T11:42:49.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="315dda0d856f1963f1869b4ce519d1e3"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:49.000000Z"/>
+<entry
+   committed-rev="4764"
+   name="idct_mmi.c"
+   text-time="2006-08-11T11:42:49.000000Z"
+   committed-date="2005-12-22T01:10:11.000000Z"
+   checksum="6c4ccdf5b4b172d0482e04399ea4e9c7"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:49.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="dsputil_mmi.c"
+   text-time="2006-08-11T11:42:49.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="69a83dda9e578e28406774a769c282f7"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:49.000000Z"/>
+<entry
+   committed-rev="4764"
+   name="mmi.h"
+   text-time="2006-08-11T11:42:49.000000Z"
+   committed-date="2005-12-22T01:10:11.000000Z"
+   checksum="b035b27d21c5336ae7ed95f5be4a3b02"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:49.000000Z"/>
+</wc-entries>

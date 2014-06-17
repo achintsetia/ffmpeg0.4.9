@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19342"
+   name=""
+   committed-date="2006-08-05T13:14:34.407289Z"
+   url="svn://svn.mplayerhq.hu/mplayer/trunk/libswscale"
+   last-author="lucabe"
+   kind="dir"
+   uuid="b3059339-0415-0410-9bf9-f77b7e298cf2"
+   repos="svn://svn.mplayerhq.hu/mplayer"
+   prop-time="2006-08-11T11:43:46.000000Z"
+   revision="19366"/>
+<entry
+   committed-rev="19339"
+   name="yuv2rgb.c"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2006-08-05T10:00:54.351479Z"
+   checksum="0f1a2c11fb71059461688b17fadd1e6a"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:43.000000Z"/>
+<entry
+   committed-rev="19342"
+   name="swscale.c"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2006-08-05T13:14:34.407289Z"
+   checksum="d6b2cf7e990dfd0d6680908fd4af4256"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:43:44.000000Z"/>
+<entry
+   committed-rev="19177"
+   name="swscale_internal.h"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2006-07-24T10:36:06.655304Z"
+   checksum="b821505cfb18cdbbcbe9a9e55683c973"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:44.000000Z"/>
+<entry
+   committed-rev="16986"
+   name="yuv2rgb_mlib.c"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2005-11-14T00:30:37.000000Z"
+   checksum="45050d2b42927f7a61c264ebfed8112f"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:44.000000Z"/>
+<entry
+   committed-rev="19205"
+   name="swscale_altivec_template.c"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2006-07-27T19:35:30.485495Z"
+   checksum="5b1471b2831e8825c9bb58a31ec298f9"
+   last-author="pacman"
+   kind="file"
+   prop-time="2006-08-11T11:43:44.000000Z"/>
+<entry
+   committed-rev="17368"
+   name="cs_test.c"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2006-01-13T00:23:32.000000Z"
+   checksum="8c9f369ce6f43021e1d93dc15783b6ca"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:46.000000Z"/>
+<entry
+   committed-rev="19177"
+   name="swscale.h"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2006-07-24T10:36:06.655304Z"
+   checksum="44e2b93f7b08943e1577ab4e792dd537"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:46.000000Z"/>
+<entry
+   committed-rev="19148"
+   name="yuv2rgb_altivec.c"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2006-07-20T12:13:57.063265Z"
+   checksum="48334bd17527dd4a9757213e739d42f9"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:43:46.000000Z"/>
+<entry
+   committed-rev="18111"
+   name="rgb2rgb_template.c"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2006-04-16T08:27:16.000000Z"
+   checksum="d91535ed9f01d16594dc709386972f15"
+   last-author="iive"
+   kind="file"
+   prop-time="2006-08-11T11:43:44.000000Z"/>
+<entry
+   committed-rev="19339"
+   name="rgb2rgb.c"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2006-08-05T10:00:54.351479Z"
+   checksum="e2807d3da9d5b2793f1763653a49ba69"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:46.000000Z"/>
+<entry
+   committed-rev="19148"
+   name="swscale-example.c"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2006-07-20T12:13:57.063265Z"
+   checksum="e6334ae95ca6ecd8f23cc0f31cc5b3b2"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:43:46.000000Z"/>
+<entry
+   committed-rev="13721"
+   name="yuv2rgb_template.c"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2004-10-21T11:55:20.000000Z"
+   checksum="8aedaecf384f79f40402d63ae0063d78"
+   last-author="aurel"
+   kind="file"
+   prop-time="2006-08-11T11:43:46.000000Z"/>
+<entry
+   committed-rev="19186"
+   name="swscale_template.c"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2006-07-26T13:19:02.452988Z"
+   checksum="a1ef56622fe92d72fd963deb697e3938"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:43:46.000000Z"/>
+<entry
+   committed-rev="18880"
+   name="rgb2rgb.h"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2006-07-01T14:39:14.141503Z"
+   checksum="4587b1c48a61ccd471b19212f27bfaa4"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:43:46.000000Z"/>
+<entry
+   committed-rev="18994"
+   name="Makefile"
+   text-time="2006-08-11T11:43:46.000000Z"
+   committed-date="2006-07-10T12:35:52.604264Z"
+   checksum="afadff360680e17bc831253cc97803d9"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:43:46.000000Z"/>
+</wc-entries>

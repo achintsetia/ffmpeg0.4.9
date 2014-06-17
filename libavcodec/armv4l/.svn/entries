@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4842"
+   name=""
+   committed-date="2006-01-12T22:43:26.000000Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/libavcodec/armv4l"
+   last-author="diego"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   revision="5980"/>
+<entry
+   committed-rev="4842"
+   name="mpegvideo_arm.c"
+   text-time="2006-08-11T11:43:08.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="4b5010b20f0e7252a2ab6718cd728772"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:07.000000Z"/>
+<entry
+   committed-rev="4764"
+   name="jrevdct_arm.S"
+   text-time="2006-08-11T11:43:08.000000Z"
+   committed-date="2005-12-22T01:10:11.000000Z"
+   checksum="4d32377bc13d6c2644ada46ff42a8355"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:07.000000Z"/>
+<entry
+   committed-rev="4311"
+   name="dsputil_iwmmxt_rnd.h"
+   text-time="2006-08-11T11:43:08.000000Z"
+   committed-date="2005-05-26T14:32:46.000000Z"
+   checksum="16ca4961726fc2ce171bbf9afdde8f30"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:07.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="dsputil_arm.c"
+   text-time="2006-08-11T11:43:08.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="e034dca16bc93c166d917ac1fdbbc55b"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:07.000000Z"/>
+<entry
+   committed-rev="4409"
+   name="mpegvideo_iwmmxt.c"
+   text-time="2006-08-11T11:43:08.000000Z"
+   committed-date="2005-06-28T22:46:36.000000Z"
+   checksum="5c64ef97a4b70259eba4dd32ad63717f"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:07.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="dsputil_arm_s.S"
+   text-time="2006-08-11T11:43:08.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="50bd06dcd27125825b3f1309165f9dee"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:08.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="dsputil_iwmmxt.c"
+   text-time="2006-08-11T11:43:08.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="cbdf31ddf269572dc8960095b87bac7c"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:08.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="simple_idct_arm.S"
+   text-time="2006-08-11T11:43:08.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="d7bb119d86f1befe8ddbd10816f4cef7"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:08.000000Z"/>
+</wc-entries>

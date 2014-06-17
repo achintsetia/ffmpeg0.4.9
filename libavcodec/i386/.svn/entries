@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5976"
+   name=""
+   committed-date="2006-08-10T20:24:58.882579Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/libavcodec/i386"
+   last-author="michael"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   revision="5980"/>
+<entry
+   committed-rev="5970"
+   name="idct_mmx_xvid.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-08-10T09:06:06.237206Z"
+   checksum="680f37eba6b0db111e00bdf2f00c0a33"
+   last-author="gpoirier"
+   kind="file"
+   prop-time="2006-08-11T11:42:31.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="vp3dsp_mmx.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="53f69c2182bdc8a183755daac31296fe"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:31.000000Z"/>
+<entry
+   committed-rev="5595"
+   name="mpegvideo_mmx.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-07-03T10:52:07.084259Z"
+   checksum="03cd1cc4e906324dafa90a63c5fd9d95"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:42:31.000000Z"/>
+<entry
+   committed-rev="5971"
+   name="fdct_mmx.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-08-10T11:29:57.245760Z"
+   checksum="01bc2eefc4ec5ce014ff1afcd84653bf"
+   last-author="gpoirier"
+   kind="file"
+   prop-time="2006-08-11T11:42:31.000000Z"/>
+<entry
+   committed-rev="5595"
+   name="motion_est_mmx.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-07-03T10:52:07.084259Z"
+   checksum="49015423b74249f5a514c02b5a723a14"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:42:31.000000Z"/>
+<entry
+   committed-rev="5214"
+   name="dsputil_h264_template_mmx.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-03-25T08:41:14.000000Z"
+   checksum="744d44676aef07fa1adb0072d4091a44"
+   last-author="lorenm"
+   kind="file"
+   prop-time="2006-08-11T11:42:31.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="idct_mmx.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="358997776d3ebc4c908ef08e6fc76bfc"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:31.000000Z"/>
+<entry
+   committed-rev="5976"
+   name="dsputil_mmx.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-08-10T20:24:58.882579Z"
+   checksum="50fb6812d492524f6cbb287dbdae29f1"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:42:32.000000Z"/>
+<entry
+   committed-rev="5965"
+   name="fft_3dn2.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-08-09T06:37:25.880877Z"
+   checksum="e9ba848390fccfac6265def39747c34c"
+   last-author="lorenm"
+   kind="file"
+   prop-time="2006-08-11T11:42:32.000000Z"/>
+<entry
+   committed-rev="5595"
+   name="mmx.h"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-07-03T10:52:07.084259Z"
+   checksum="78ad3fd375cc40fe3242ccc2db95adff"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:42:32.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="dsputil_mmx_avg.h"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="813b5f02f6e95910f31b89542c10d01c"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:32.000000Z"/>
+<entry
+   committed-rev="4942"
+   name="vp3dsp_sse2.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-02-05T13:35:17.000000Z"
+   checksum="09ceaf5fa11e3f6f3543f2b2ce45da8f"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:33.000000Z"/>
+<entry
+   committed-rev="5589"
+   name="h264dsp_mmx.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-07-02T22:01:31.123732Z"
+   checksum="696c1ca16d64f38c974d36d6b5e82730"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:42:33.000000Z"/>
+<entry
+   committed-rev="5972"
+   name="simple_idct_mmx.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-08-10T15:26:18.282141Z"
+   checksum="d756f0929215448fd1d564c29f63fb91"
+   last-author="gpoirier"
+   kind="file"
+   prop-time="2006-08-11T11:42:33.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="dsputil_mmx_rnd.h"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="4565be330781d5626041c76b28c683e9"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:33.000000Z"/>
+<entry
+   committed-rev="5973"
+   name="snowdsp_mmx.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-08-10T16:05:29.832859Z"
+   checksum="cbaa154e3496379e109657eeff1f165f"
+   last-author="lu_zero"
+   kind="file"
+   prop-time="2006-08-11T11:42:33.000000Z"/>
+<entry
+   committed-rev="5125"
+   name="fft_3dn.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-03-08T04:13:55.000000Z"
+   checksum="d356b02bc948302dd5d382165a48f8c3"
+   last-author="corey"
+   kind="file"
+   prop-time="2006-08-11T11:42:34.000000Z"/>
+<entry
+   committed-rev="5846"
+   name="cavsdsp_mmx.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-07-29T08:45:33.267740Z"
+   checksum="755c72e44bb0d5ac737ba62b58955610"
+   last-author="stefang"
+   kind="file"
+   prop-time="2006-08-11T11:42:34.000000Z"/>
+<entry
+   committed-rev="5326"
+   name="cputest.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-04-28T07:46:13.000000Z"
+   checksum="138f4fea4f03c1aaeb9c330871f0ea60"
+   last-author="gpoirier"
+   kind="file"
+   prop-time="2006-08-11T11:42:34.000000Z"/>
+<entry
+   committed-rev="5112"
+   name="fft_sse.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-03-05T20:25:18.000000Z"
+   checksum="958310fd72b172aa336d53fd690300fe"
+   last-author="gpoirier"
+   kind="file"
+   prop-time="2006-08-11T11:42:34.000000Z"/>
+<entry
+   committed-rev="5588"
+   name="mpegvideo_mmx_template.c"
+   text-time="2006-08-11T11:42:34.000000Z"
+   committed-date="2006-07-02T21:53:30.553703Z"
+   checksum="d40bdf6a0739da8c61678a27a8789c56"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:42:34.000000Z"/>
+</wc-entries>

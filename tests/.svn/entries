@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5951"
+   name=""
+   committed-date="2006-08-07T14:36:26.919197Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/tests"
+   last-author="bcoudurier"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   prop-time="2006-08-11T11:43:19.000000Z"
+   revision="5980"/>
+<entry
+   committed-rev="4764"
+   name="videogen.c"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2005-12-22T01:10:11.000000Z"
+   checksum="087d400b184a4ced5e1922d3f5318fa3"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:14.000000Z"/>
+<entry
+   committed-rev="5943"
+   name="rotozoom.regression.ref"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2006-08-07T10:52:14.422863Z"
+   checksum="8f49bc7397477eb6042da858eb0a85ab"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:15.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="test.conf"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2006-03-09T00:36:39.000000Z"
+   checksum="b715b1094f4c6e98d51446939b057b20"
+   last-author="aurel"
+   kind="file"
+   prop-time="2006-08-11T11:43:15.000000Z"/>
+<entry
+   committed-rev="5783"
+   name="tiny_psnr.c"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2006-07-18T21:41:49.277619Z"
+   checksum="cda77bd184c80df5fd3e124726df6a65"
+   last-author="banan"
+   kind="file"
+   prop-time="2006-08-11T11:43:15.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="dsptest.c"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="a67792cd22441e918cb1055963dfbd54"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:15.000000Z"/>
+<entry
+   committed-rev="5939"
+   name="libav.regression.ref"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2006-08-06T15:29:50.689086Z"
+   checksum="103bec7b043856a96f5f47c4216f32a9"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:15.000000Z"/>
+<entry
+   committed-rev="1755"
+   name="lena.pnm"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2003-04-11T13:43:17.000000Z"
+   checksum="f79cb12e8e0826b8eae106e15d78655f"
+   last-author="michaelni"
+   kind="file"
+   prop-time="2006-08-11T11:43:18.000000Z"/>
+<entry
+   committed-rev="5887"
+   name="regression.sh"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2006-08-02T09:48:05.056190Z"
+   checksum="72621d90917cbc42e376fa8abfb8502d"
+   last-author="lucabe"
+   kind="file"
+   prop-time="2006-08-11T11:43:18.000000Z"/>
+<entry
+   committed-rev="4764"
+   name="rotozoom.c"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2005-12-22T01:10:11.000000Z"
+   checksum="f5598ae6d0730f731a43e6e004a09cc3"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:19.000000Z"/>
+<entry
+   committed-rev="4749"
+   name="audiogen.c"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2005-12-17T18:14:38.000000Z"
+   checksum="676884965e08e659f237e8f49275be2a"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:19.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="ffserver.regression.ref"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2006-03-09T00:36:39.000000Z"
+   checksum="723e154d1576398165fe617d96e02fdc"
+   last-author="aurel"
+   kind="file"
+   prop-time="2006-08-11T11:43:19.000000Z"/>
+<entry
+   committed-rev="5924"
+   name="Makefile"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2006-08-03T17:27:33.146507Z"
+   checksum="8113a9a3a98ee866ce46cb18bdf263d3"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:19.000000Z"/>
+<entry
+   committed-rev="5068"
+   name="server-regression.sh"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2006-02-26T22:49:16.000000Z"
+   checksum="6c3b384c31a3c1c20141cd1ae3cd5375"
+   last-author="aurel"
+   kind="file"
+   prop-time="2006-08-11T11:43:19.000000Z"/>
+<entry
+   committed-rev="5951"
+   name="ffmpeg.regression.ref"
+   text-time="2006-08-11T11:43:19.000000Z"
+   committed-date="2006-08-07T14:36:26.919197Z"
+   checksum="6158840bf93ec61204a7f443b9f4d9b3"
+   last-author="bcoudurier"
+   kind="file"
+   prop-time="2006-08-11T11:43:19.000000Z"/>
+</wc-entries>

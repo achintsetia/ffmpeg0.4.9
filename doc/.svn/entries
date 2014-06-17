@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5944"
+   name=""
+   committed-date="2006-08-07T11:49:34.919066Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/doc"
+   last-author="diego"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   prop-time="2006-08-11T11:43:20.000000Z"
+   revision="5980"/>
+<entry
+   committed-rev="5824"
+   name="faq.texi"
+   text-time="2006-08-11T11:43:20.000000Z"
+   committed-date="2006-07-25T11:42:13.693204Z"
+   checksum="30759625f73dedc7bb0029c6b9809596"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:19.000000Z"/>
+<entry
+   committed-rev="5944"
+   name="ffmpeg-doc.texi"
+   text-time="2006-08-11T11:43:20.000000Z"
+   committed-date="2006-08-07T11:49:34.919066Z"
+   checksum="64a4a20886b4ae31ed3d4d8b7cab6435"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:19.000000Z"/>
+<entry
+   committed-rev="5942"
+   name="soc.txt"
+   text-time="2006-08-11T11:43:20.000000Z"
+   committed-date="2006-08-07T09:59:21.336602Z"
+   checksum="8268a1a3d25f4cc6c5d8206aea828c7f"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:19.000000Z"/>
+<entry
+   committed-rev="5459"
+   name="optimization.txt"
+   text-time="2006-08-11T11:43:20.000000Z"
+   committed-date="2006-06-09T09:55:57.052277Z"
+   checksum="c2c0750ad131419599024a2ae4c8916b"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:19.000000Z"/>
+<entry
+   committed-rev="5867"
+   name="TODO"
+   text-time="2006-08-11T11:43:20.000000Z"
+   committed-date="2006-07-30T21:09:46.345442Z"
+   checksum="5e6834147fc8283cb90fc0145f12546a"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:20.000000Z"/>
+<entry
+   committed-rev="4749"
+   name="ffserver.conf"
+   text-time="2006-08-11T11:43:20.000000Z"
+   committed-date="2005-12-17T18:14:38.000000Z"
+   checksum="d7fab98774b8798dba134ab445b3506e"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:20.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="texi2pod.pl"
+   text-time="2006-08-11T11:43:20.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="d5f8fea9774314c7acd4fff11ce4369c"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:20.000000Z"/>
+<entry
+   committed-rev="5470"
+   name="ffmpeg_powerpc_performance_evaluation_howto.txt"
+   text-time="2006-08-11T11:43:20.000000Z"
+   committed-date="2006-06-13T01:20:39.007693Z"
+   checksum="61008cec40111ecddda752b1b61a2da7"
+   last-author="lu_zero"
+   kind="file"
+   prop-time="2006-08-11T11:43:20.000000Z"/>
+<entry
+   committed-rev="4749"
+   name="hooks.texi"
+   text-time="2006-08-11T11:43:20.000000Z"
+   committed-date="2005-12-17T18:14:38.000000Z"
+   checksum="df1e5fc211add2f66550f417cbc7cc8e"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:20.000000Z"/>
+<entry
+   committed-rev="4749"
+   name="ffplay-doc.texi"
+   text-time="2006-08-11T11:43:20.000000Z"
+   committed-date="2005-12-17T18:14:38.000000Z"
+   checksum="da4ff389fd7335df7ac4a50cdef58e5c"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:20.000000Z"/>
+<entry
+   committed-rev="3855"
+   name="Makefile"
+   text-time="2006-08-11T11:43:20.000000Z"
+   committed-date="2005-01-21T22:16:05.000000Z"
+   checksum="e5963b6502c1192a1605547965f12047"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:43:20.000000Z"/>
+<entry
+   committed-rev="4749"
+   name="ffserver-doc.texi"
+   text-time="2006-08-11T11:43:20.000000Z"
+   committed-date="2005-12-17T18:14:38.000000Z"
+   checksum="f4a5b5d17addecb3a5ebbef44fec166d"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:43:20.000000Z"/>
+</wc-entries>

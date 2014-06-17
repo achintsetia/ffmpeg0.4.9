@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5440"
+   name=""
+   committed-date="2006-06-01T21:37:48.477599Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/libavcodec/liba52"
+   last-author="diego"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   revision="5980"/>
+<entry
+   committed-rev="4842"
+   name="bitstream.h"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="dba40b0c79b182935a2dbc44f7f04858"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:56.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="imdct.c"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="03165b869308c388f216ec2a01a573dc"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="mm_accel.h"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="46eb10c38c5edcc0600ad7d43a591ea1"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+<entry
+   committed-rev="4749"
+   name="crc.c"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2005-12-17T18:14:38.000000Z"
+   checksum="d45def6213c6da3621750ea8b5ad3bc3"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+<entry
+   committed-rev="5440"
+   name="resample.c"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2006-06-01T21:37:48.477599Z"
+   checksum="dfe197800c64d8e6e7f83a28341ff36a"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+<entry
+   committed-rev="1780"
+   name="resample_c.c"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2003-04-16T20:03:07.000000Z"
+   checksum="bc4da1292f3325f06ac29374a60d0803"
+   last-author="arpi_esp"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="parse.c"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="44b5aee67d7836a006de753f2f809b76"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="tables.h"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="bb8a7f08974e8a726fb689904e53b3aa"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="bit_allocate.c"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="980ac0f9ac7b459bc14d0c10e0806072"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="downmix.c"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="1bbb310476f9d551267862322365ffa7"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="a52_internal.h"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="02ddfbe39588b869f60ed89f1c1a0708"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+<entry
+   committed-rev="4749"
+   name="resample_mmx.c"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2005-12-17T18:14:38.000000Z"
+   checksum="84a69a265365aa845b1076d95507f868"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="a52_util.h"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="38f8729e7199528bd915b6103a8c0635"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="bitstream.c"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="ccafb0de6019bb9830796115e9d89bbb"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="a52.h"
+   text-time="2006-08-11T11:42:57.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="5931b355fbd12553088b886e32efd155"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:57.000000Z"/>
+</wc-entries>

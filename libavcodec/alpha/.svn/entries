@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5029"
+   name=""
+   committed-date="2006-02-17T19:48:11.000000Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/libavcodec/alpha"
+   last-author="mellum"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   revision="5980"/>
+<entry
+   committed-rev="709"
+   name="regdef.h"
+   text-time="2006-08-11T11:42:27.000000Z"
+   committed-date="2002-07-01T04:26:07.000000Z"
+   checksum="964c25b5f54ab8574e969d0fa6e397e5"
+   last-author="mellum"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="simple_idct_alpha.c"
+   text-time="2006-08-11T11:42:27.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="b96a21fae5e557e23418630644727534"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="mpegvideo_alpha.c"
+   text-time="2006-08-11T11:42:27.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="731dc3b4b059439fc59e78c3037d944f"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="asm.h"
+   text-time="2006-08-11T11:42:27.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="eaf7832fb10a71b9ae0385d24bbcb793"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:26.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="motion_est_alpha.c"
+   text-time="2006-08-11T11:42:27.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="b566b6f2f5215166498e7fb6a3c94dc3"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:27.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="dsputil_alpha.c"
+   text-time="2006-08-11T11:42:27.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="c6d291c1d8133300e80075cb80975007"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:27.000000Z"/>
+<entry
+   committed-rev="5029"
+   name="dsputil_alpha_asm.S"
+   text-time="2006-08-11T11:42:27.000000Z"
+   committed-date="2006-02-17T19:48:11.000000Z"
+   checksum="67d15e434ac270e56eae9a15a7f38c72"
+   last-author="mellum"
+   kind="file"
+   prop-time="2006-08-11T11:42:27.000000Z"/>
+<entry
+   committed-rev="5029"
+   name="motion_est_mvi_asm.S"
+   text-time="2006-08-11T11:42:27.000000Z"
+   committed-date="2006-02-17T19:48:11.000000Z"
+   checksum="5fbe3f43af34c42f18980fe0c477a705"
+   last-author="mellum"
+   kind="file"
+   prop-time="2006-08-11T11:42:27.000000Z"/>
+</wc-entries>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5911"
+   name=""
+   committed-date="2006-08-03T12:46:42.962873Z"
+   url="svn://svn.mplayerhq.hu/ffmpeg/trunk/vhook"
+   last-author="diego"
+   kind="dir"
+   uuid="9553f0bf-9b14-0410-a0b8-cfaf0461ba5b"
+   repos="svn://svn.mplayerhq.hu/ffmpeg"
+   prop-time="2006-08-11T11:42:24.000000Z"
+   revision="5980"/>
+<entry
+   committed-rev="5429"
+   name="imlib2.c"
+   text-time="2006-08-11T11:42:24.000000Z"
+   committed-date="2006-05-30T09:21:58.045289Z"
+   checksum="717d3894a2e9fb107ecb64ab4fab0184"
+   last-author="michael"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="4914"
+   name="drawtext.c"
+   text-time="2006-08-11T11:42:24.000000Z"
+   committed-date="2006-01-30T23:41:27.000000Z"
+   checksum="dad450fb23eee7199c65d17b37662732"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="fish.c"
+   text-time="2006-08-11T11:42:24.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="36db0c55dafa6c3950b57ec3ea3e0d58"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="4842"
+   name="null.c"
+   text-time="2006-08-11T11:42:24.000000Z"
+   committed-date="2006-01-12T22:43:26.000000Z"
+   checksum="a3ca45908ddae970589db473b0eb48d4"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="5755"
+   name="Makefile"
+   text-time="2006-08-11T11:42:24.000000Z"
+   committed-date="2006-07-15T23:01:52.913975Z"
+   checksum="6f317833322fa703e4ba1bc1042df4f7"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="4913"
+   name="ppm.c"
+   text-time="2006-08-11T11:42:24.000000Z"
+   committed-date="2006-01-30T23:33:19.000000Z"
+   checksum="a595ab59439772dfccd00d774c9027fa"
+   last-author="mru"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+<entry
+   committed-rev="5497"
+   name="watermark.c"
+   text-time="2006-08-11T11:42:24.000000Z"
+   committed-date="2006-06-18T11:33:14.776485Z"
+   checksum="2b0ef01b39020481b02e4de65e00dd5a"
+   last-author="diego"
+   kind="file"
+   prop-time="2006-08-11T11:42:24.000000Z"/>
+</wc-entries>
